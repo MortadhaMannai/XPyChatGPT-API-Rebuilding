@@ -1,10 +1,8 @@
-# 🤖 ChatGPT-API-Python: Building a Chatbot using OpenAI's ChatGPT API 🚀
+# 🤖XPyChatGPT-API-Rebuilding : ChatGPT-API-Python: Building a Chatbot using OpenAI's ChatGPT API 🚀
 [![ChatGPT-API-Python](https://img.shields.io/badge/ChatGPT--API--Python-Build%20A%20ChatBot%20Using%20OpenAI%20Python%20API-blueviolet?logo=github&style=flat-square)](https://github.com/abdur75648/ChatGPT-API-Python)
 [![Website](https://img.shields.io/badge/Website-Visit%20Here-brightgreen?style=flat-square)](https://abdur75648.github.io/ChatGPT-API-Python/)
 
-This repository contains code for building a terminal-based chatbot using OpenAI's recently released ChatGPT API [Released on 01/03/2023](https://openai.com/blog/introducing-chatgpt-and-whisper-apis). The code is written in Python and uses the [OpenAI Python library](https://github.com/openai/openai-python)
-
-<img width="728" alt="Screenshot 2023-03-02 at 4 09 46 PM" src="https://user-images.githubusercontent.com/66300465/222408855-b2591f9b-5b72-408e-b6e0-91f5304c7c43.png">
+This repository contains code for building a terminal-based chatbot using OpenAI's recently released ChatGPT API (https://openai.com/blog/introducing-chatgpt-and-whisper-apis). The code is written in Python and uses the [OpenAI Python library](https://github.com/openai/openai-python)
 
 ## Getting Started 🔧
 Before you begin, you'll need to sign up for an OpenAI API key. You can sign up [here](https://beta.openai.com/signup/) and get your API key [here](https://platform.openai.com/account/api-keys). 
@@ -31,13 +29,12 @@ Happy chatting 🎉
 * [OpenAI Python Library](https://github.com/openai/openai-python)
 
 ## Connect with me
-Name: Abdur Rahman
+Name: MANAI MORTADHA 
 
-Institution: Indian Institute of Technology Delhi
 
 Find me on:
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rahman-0b84341a0/)
-- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/abdur75648)
-- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/abdur75648)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannai-mortadha/)
+- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/MortadhaMannai)
+  
 # XPyChatGPT-API-Rebuilding
